@@ -5,7 +5,7 @@ import Filter from './index';
 import { onButton, onLogError } from '../../../../../../utils/test';
 
 onButton();
-onLogError('呵呵🙃');
+onLogError('呵呵🙃123');
 
 // import { filterParams } from "./initData";
 const filterParams = [

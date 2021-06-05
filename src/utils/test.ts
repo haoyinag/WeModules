@@ -3,5 +3,5 @@ export const onButton = () => {
 };
 
 export const onLogError = (err = "error") => {
-  console.error(`on ${err}`);
+  console.error(`on ${err} ddd`);
 };
