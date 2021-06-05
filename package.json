@@ -1,0 +1,20 @@
+{
+  "name": "WeModules",
+  "version": "1.0.0",
+  "description": "多项目公用资源管理",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haoyinag/WeModules.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haoyinag/WeModules/issues"
+  },
+  "homepage": "https://github.com/haoyinag/WeModules#readme"
+}
