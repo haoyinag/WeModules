@@ -2,6 +2,11 @@ import React from 'react';
 
 import Filter from './index';
 
+import { onButton, onLogError } from '../../../../../../utils/test';
+
+onButton();
+onLogError('呵呵🙃');
+
 // import { filterParams } from "./initData";
 const filterParams = [
   {
