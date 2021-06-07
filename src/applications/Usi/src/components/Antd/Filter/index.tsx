@@ -71,6 +71,8 @@ export default ({
       onChange: () => autoSearch && onFinish(form.getFieldsValue()),
       onSelect: () => autoSearch && onFinish(form.getFieldsValue()),
     };
+
+  // switch-case可以通过对象或者数组的方式优化代码
     switch (tagname) {
       case 'input':
         return <Input allowClear {...item} />;
